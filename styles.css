@@ -61,6 +61,7 @@ body {
 	color: white;
 	display: none;
 }
+/* Solveing Results View Problem  */
 #result {
 	position: fixed;
 	top: 50%;
