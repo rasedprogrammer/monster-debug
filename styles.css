@@ -198,6 +198,7 @@ button {
 		padding: 0 20px;
 		width: 100%;
 	}
+	/* Showing Mobile View */
 	.card {
 		flex-direction: column;
 		width: 100%;
