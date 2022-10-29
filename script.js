@@ -138,6 +138,7 @@ setInterval(() => {
 	const currentTime = new Date().getTime();
 	const timeSpent = (currentTime - startTime) / 1000;
 
+	// Solving Start Time Using toFixed Method
 	document.getElementById("show-time").innerHTML = `${
 		startTime ? timeSpent.toFixed(0) : 0
 	} seconds`;
