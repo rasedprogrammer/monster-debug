@@ -1,0 +1,40 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url("./bg.png");
+	background-size: cover;
+	background-position: left top;
+	font-family: "Zilla Slab", serif;
+	color: white;
+}
+
+.blog-page {
+	margin-left: 20px;
+	color: #fff;
+	font-size: 20px;
+	padding: 5px 20px;
+	border: 1px solid #9dffad;
+	text-decoration: none;
+}
+.heading-text {
+	display: block;
+	text-align: center;
+	margin-top: 50px;
+	text-decoration: underline;
+}
+.blog-site {
+	padding: 0 7%;
+}
+.blog-site h1 {
+	font-size: 30px;
+	margin-top: 30px;
+}
+.blog-site p {
+	font-size: 18px;
+	margin-top: 20px;
+	text-align: justify;
+}
